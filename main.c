@@ -16,7 +16,6 @@ int main()
 		y++;
 		
 		y = 10;
-		y = 20;
 
 	}
 	return 0;

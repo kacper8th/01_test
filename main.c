@@ -14,6 +14,8 @@ int main()
 		
 		int y = 0 ;
 		y++;
+		
+		y = 10;
 
 	}
 	return 0;

@@ -2,15 +2,18 @@
 
 int main()
 {
-	DDRB |= (1<<PB1);
-	PORTB |= (1<<PB1);
+	DDRB |= (1<<PB2);
+	PORTB |= (1<<PB2);
 
 	while(1)
 	{
-		PORTB ^= (1<<PB1);
+		PORTB ^= (1<<PB2);
 		
 		int x=0;
 		x++;
+		
+		int y = 0 ;
+		y++;
 
 	}
 	return 0;

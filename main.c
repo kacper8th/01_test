@@ -8,6 +8,9 @@ int main()
 	while(1)
 	{
 		PORTB ^= (1<<PB1);
+		
+		int x=0;
+		x++;
 
 	}
 	return 0;

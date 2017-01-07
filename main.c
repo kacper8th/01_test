@@ -11,6 +11,8 @@ int main()
 		
 		int x=0;
 		x++;
+		
+		int y = 0 ;
 
 	}
 	return 0;

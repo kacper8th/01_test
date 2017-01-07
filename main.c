@@ -13,6 +13,7 @@ int main()
 		x++;
 		
 		int y = 0 ;
+		y++;
 
 	}
 	return 0;
